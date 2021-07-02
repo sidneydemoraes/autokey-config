@@ -4,16 +4,17 @@
     "modes": [
         1
     ],
-    "usageCount": 0,
+    "usageCount": 3,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
+            "..bom",
             "..boa",
             "..sim",
-            "..bom"
+            "..blz"
         ],
         "backspace": true,
         "ignoreCase": false,
