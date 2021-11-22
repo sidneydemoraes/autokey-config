@@ -4,15 +4,15 @@
     "modes": [
         1
     ],
-    "usageCount": 1,
+    "usageCount": 6,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": true,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "mt",
-            "mto"
+            "mto",
+            "mt"
         ],
         "backspace": true,
         "ignoreCase": true,
