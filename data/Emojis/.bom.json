@@ -1,6 +1,6 @@
 {
     "type": "phrase",
-    "description": "ok",
+    "description": "bom",
     "modes": [
         1
     ],
@@ -11,7 +11,8 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "..ok"
+            "..boa",
+            "..bom"
         ],
         "backspace": true,
         "ignoreCase": false,
