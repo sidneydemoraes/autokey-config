@@ -1,0 +1,28 @@
+{
+    "type": "script",
+    "description": "Zoom Push to Talk",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 1092,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": "<f1>"
+    },
+    "filter": {
+        "regex": ".*Reuni\u00e3o Zoom",
+        "isRecursive": false
+    }
+}
