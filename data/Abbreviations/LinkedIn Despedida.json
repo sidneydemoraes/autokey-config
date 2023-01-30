@@ -11,7 +11,7 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "lir-pt"
+            "#lirpt"
         ],
         "backspace": true,
         "ignoreCase": false,
