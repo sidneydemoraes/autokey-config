@@ -11,7 +11,8 @@ hold_action = 2
 expected_action = '<alt>+A'
 
 try:
-  open(lockfile)
+  with open(lockfile):
+    pass
 except FileNotFoundError:
   with open(lockfile, 'w'):
     
