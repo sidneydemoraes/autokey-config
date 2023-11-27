@@ -1,6 +1,6 @@
 # Enter script code
 
-keyboard.send_keys("<ctrl> + <alt> + <shift> + a")
-keyboard.send_keys("<ctrl> + <alt> + <shift> + v")
-keyboard.send_keys("<ctrl> + <alt> + <shift> + t")
-keyboard.send_keys("<ctrl> + <alt> + t")
+engine.run_script("Authy")
+engine.run_script("Vivaldi")
+import subprocess
+subprocess.run(["gnome-terminal"])

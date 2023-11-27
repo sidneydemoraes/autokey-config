@@ -29,9 +29,10 @@
         "scriptGlobals": {},
         "gtkTheme": "solarized-dark",
         "gtkExpandedRows": [
-            "2"
+            "2",
+            "0"
         ],
-        "pathLastOpen": "2:9"
+        "pathLastOpen": "0:4"
     },
     "folders": [],
     "toggleServiceHotkey": {
