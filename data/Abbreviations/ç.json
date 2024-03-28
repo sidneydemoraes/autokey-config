@@ -1,32 +1,31 @@
 {
-    "type": "script",
-    "description": "Authy",
-    "store": {},
+    "type": "phrase",
+    "description": "\u00e7",
     "modes": [
-        3
+        1
     ],
     "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
+    "matchCase": true,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [],
+        "abbreviations": [
+            "#c#"
+        ],
         "backspace": true,
-        "ignoreCase": false,
+        "ignoreCase": true,
         "immediate": false,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [
-            "<alt>",
-            "<ctrl>",
-            "<shift>"
-        ],
-        "hotKey": "a"
+        "modifiers": [],
+        "hotKey": null
     },
     "filter": {
         "regex": null,
         "isRecursive": false
-    }
+    },
+    "sendMode": "kb"
 }

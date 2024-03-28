@@ -4,13 +4,14 @@
     "modes": [
         1
     ],
-    "usageCount": 0,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": true,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
+            "toh",
             "tou"
         ],
         "backspace": true,
