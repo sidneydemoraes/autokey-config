@@ -11,9 +11,9 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "..<3",
+            "..coracao",
             "..cora\u00e7\u00e3o",
-            "..coracao"
+            "..<3"
         ],
         "backspace": true,
         "ignoreCase": false,
@@ -29,5 +29,5 @@
         "regex": null,
         "isRecursive": false
     },
-    "sendMode": "kb"
+    "sendMode": "<ctrl>+v"
 }

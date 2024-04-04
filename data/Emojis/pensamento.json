@@ -1,22 +1,23 @@
 {
     "type": "phrase",
-    "description": "palmas",
+    "description": "pensamento",
     "modes": [
         1
     ],
-    "usageCount": 7,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
-    "matchCase": false,
+    "matchCase": true,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "..pms",
-            "..palmas"
+            "..penso",
+            "..pensa",
+            "..think"
         ],
         "backspace": true,
-        "ignoreCase": false,
-        "immediate": true,
+        "ignoreCase": true,
+        "immediate": false,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },

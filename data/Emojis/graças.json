@@ -11,8 +11,8 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "..gracas",
-            "..gra\u00e7as"
+            "..gra\u00e7as",
+            "..gracas"
         ],
         "backspace": true,
         "ignoreCase": false,
@@ -28,5 +28,5 @@
         "regex": null,
         "isRecursive": false
     },
-    "sendMode": "kb"
+    "sendMode": "<ctrl>+v"
 }

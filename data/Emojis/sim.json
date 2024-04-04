@@ -11,9 +11,9 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
+            "..ok",
             "..sim",
-            "..blz",
-            "..ok"
+            "..blz"
         ],
         "backspace": true,
         "ignoreCase": false,
@@ -29,5 +29,5 @@
         "regex": null,
         "isRecursive": false
     },
-    "sendMode": "kb"
+    "sendMode": "<ctrl>+v"
 }

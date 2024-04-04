@@ -11,8 +11,8 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "..bom",
-            "..boa"
+            "..boa",
+            "..bom"
         ],
         "backspace": true,
         "ignoreCase": false,
@@ -28,5 +28,5 @@
         "regex": null,
         "isRecursive": false
     },
-    "sendMode": "kb"
+    "sendMode": "<ctrl>+v"
 }
