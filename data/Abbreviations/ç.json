@@ -7,16 +7,16 @@
     "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
-    "matchCase": true,
+    "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
             "#c#"
         ],
         "backspace": true,
-        "ignoreCase": true,
-        "immediate": false,
-        "triggerInside": false,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": true,
         "wordChars": "[\\w]"
     },
     "hotkey": {

@@ -1,6 +1,6 @@
 {
     "type": "phrase",
-    "description": "#mx",
+    "description": "putz",
     "modes": [
         1
     ],
@@ -11,11 +11,11 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "#mx"
+            "..putz"
         ],
         "backspace": true,
-        "ignoreCase": true,
-        "immediate": false,
+        "ignoreCase": false,
+        "immediate": true,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },
@@ -27,5 +27,5 @@
         "regex": null,
         "isRecursive": false
     },
-    "sendMode": "kb"
+    "sendMode": "<ctrl>+v"
 }

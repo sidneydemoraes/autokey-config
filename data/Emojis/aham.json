@@ -1,21 +1,21 @@
 {
     "type": "phrase",
-    "description": "##clip1",
+    "description": "aham",
     "modes": [
         1
     ],
-    "usageCount": 46,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "#1"
+            "..aham"
         ],
         "backspace": true,
-        "ignoreCase": false,
-        "immediate": true,
+        "ignoreCase": true,
+        "immediate": false,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },
