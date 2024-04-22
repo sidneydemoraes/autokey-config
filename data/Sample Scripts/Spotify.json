@@ -1,31 +1,32 @@
 {
-    "type": "phrase",
-    "description": "##clip1",
+    "type": "script",
+    "description": "Spotify",
+    "store": {},
     "modes": [
-        1
+        3
     ],
-    "usageCount": 73,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
-    "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
-        "abbreviations": [
-            "#1"
-        ],
+        "abbreviations": [],
         "backspace": true,
         "ignoreCase": false,
-        "immediate": true,
+        "immediate": false,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },
     "hotkey": {
-        "modifiers": [],
-        "hotKey": null
+        "modifiers": [
+            "<alt>",
+            "<ctrl>",
+            "<shift>"
+        ],
+        "hotKey": "m"
     },
     "filter": {
         "regex": null,
         "isRecursive": false
-    },
-    "sendMode": "<ctrl>+v"
+    }
 }
