@@ -20,7 +20,8 @@
     "hotkey": {
         "modifiers": [
             "<alt>",
-            "<ctrl>"
+            "<ctrl>",
+            "<shift>"
         ],
         "hotKey": "d"
     },

@@ -12,10 +12,10 @@
         "interfaceType": "XRecord",
         "undoUsingBackspace": true,
         "windowDefaultSize": [
-            1530,
-            836
+            1150,
+            614
         ],
-        "hPanePosition": 392,
+        "hPanePosition": 295,
         "columnWidths": [
             150,
             50,
@@ -29,9 +29,9 @@
         "scriptGlobals": {},
         "gtkTheme": "solarized-dark",
         "gtkExpandedRows": [
-            "0"
+            "2"
         ],
-        "pathLastOpen": "0:3"
+        "pathLastOpen": "2:10"
     },
     "folders": [],
     "toggleServiceHotkey": {

@@ -1,23 +1,21 @@
 {
     "type": "phrase",
-    "description": "tou",
+    "description": "LinkedIn Outsourcing",
     "modes": [
         1
     ],
-    "usageCount": 2,
+    "usageCount": 0,
     "prompt": false,
     "omitTrigger": false,
-    "matchCase": true,
+    "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "tou",
-            "tow",
-            "toh"
+            "#lienout"
         ],
         "backspace": true,
-        "ignoreCase": true,
-        "immediate": false,
+        "ignoreCase": false,
+        "immediate": true,
         "triggerInside": false,
         "wordChars": "[\\w]"
     },
