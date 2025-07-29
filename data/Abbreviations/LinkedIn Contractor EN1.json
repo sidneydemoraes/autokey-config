@@ -1,6 +1,6 @@
 {
     "type": "phrase",
-    "description": "LinkedIn Contractor",
+    "description": "LinkedIn Contractor EN",
     "modes": [
         1
     ],
@@ -11,7 +11,7 @@
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "#liouten"
+            "#licten"
         ],
         "backspace": true,
         "ignoreCase": false,
@@ -27,5 +27,5 @@
         "regex": null,
         "isRecursive": false
     },
-    "sendMode": "<shift>+<insert>"
+    "sendMode": "<ctrl>+v"
 }
