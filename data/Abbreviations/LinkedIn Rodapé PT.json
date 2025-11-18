@@ -1,17 +1,17 @@
 {
     "type": "phrase",
-    "description": "LinkedIn Contractor EN",
+    "description": "LinkedIn Rodap\u00e9 PT",
     "modes": [
         1
     ],
-    "usageCount": 0,
+    "usageCount": 4,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "#licten"
+            "#lirpt"
         ],
         "backspace": true,
         "ignoreCase": false,
@@ -27,5 +27,5 @@
         "regex": null,
         "isRecursive": false
     },
-    "sendMode": "<ctrl>+v"
+    "sendMode": "kb"
 }

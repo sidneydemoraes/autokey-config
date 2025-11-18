@@ -1,23 +1,23 @@
 {
     "type": "phrase",
-    "description": "LinkedIn Reply",
+    "description": "NVidia",
     "modes": [
         1
     ],
-    "usageCount": 2,
+    "usageCount": 1,
     "prompt": false,
     "omitTrigger": false,
     "matchCase": false,
     "showInTrayMenu": false,
     "abbreviation": {
         "abbreviations": [
-            "#lien"
+            "#nvidia"
         ],
         "backspace": true,
-        "ignoreCase": false,
+        "ignoreCase": true,
         "immediate": true,
         "triggerInside": false,
-        "wordChars": "[^ \\n]"
+        "wordChars": "[\\w]"
     },
     "hotkey": {
         "modifiers": [],
